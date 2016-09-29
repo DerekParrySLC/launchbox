@@ -1,0 +1,71 @@
+
+
+html, body { 
+  background: url(desk.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  color: #93c350;
+  font-size: 41px;	
+}
+
+h2, h3, p {
+	font-weight: 100;
+}
+
+h3 {
+	font-size: 17px;
+	color: rgba(255,255,255,0.7);
+}
+
+a {
+	text-decoration: underline;
+	color: rgba(255,255,255,0.7);
+	font-weight: 200;
+}
+
+a:hover {
+	color: #93c350;
+	text-decoration: underline;
+}
+
+.launch-box {
+	background-color: rgba(0,0,0,0.7);
+	text-align: center;
+	padding: 40px;
+	margin: 65px auto 80px auto;
+	max-width: 500px;
+}
+
+.launch-box>p{
+	text-align: left;
+	font-size: 14px;
+}
+
+.container-fluid>p{
+	float: right;
+}
+
+.btn-default,
+.btn-default:hover,
+.btn-default:active,
+.btn-default:focus,
+.btn-default:visited {
+  color: #fff;
+  background-color: #93c350;
+  border-color: #93c350;
+  border-top-color: #93c350;
+  border-right-color: #93c350;
+  border-bottom-color: #93c350;
+  border-left-color: #93c350;
+}
+
+
+
+
