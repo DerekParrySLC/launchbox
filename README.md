@@ -6,7 +6,9 @@
 #### What is LaunchBox?
 **LaunchBox** is a free pre-launch campaign template that integrates [formspree.io](https://formspree.io) and a facebook share button. It is modeled after the old LaunchRock (www.launchrock.com), which was awesome. I waited around for something like it to resurface, but nothing ever did. So I made LaunchBox.
 
-LaunchBox goes hand-in-hand with the [Lean Startup](https://en.wikipedia.org/wiki/Lean_startup) methodology of refraining from investing in something before you know there is sufficient demand. In a matter of minutes, you can create a new launchbox, share it on reddit and facebook, and start getting people in your inbox who are genuinely interested in your project. The facebook share button also makes it easy for people to share your idea, bringing in more followers. I've used LaunchBox twice (see exampoles below) and both times it works great. The first time (for an app idea) it brought in over 100 people, and the second time (for my friends self-published book) it brought in about sixty people. Not anything huge, but it is a great jumpstart for getting an audience right out of the gate and making your project successful.
+LaunchBox goes hand-in-hand with the [Lean Startup](https://en.wikipedia.org/wiki/Lean_startup) methodology of refraining from investing in something before you know there is sufficient demand for it. In a matter of minutes, you can create a new launchbox, share it on reddit and facebook, and start getting people in your inbox who are genuinely interested in your project. The facebook share button also makes it easy for people to share your idea, bringing in more followers.
+
+I've used LaunchBox twice (see the exampoles below) and both times it worked great. The first time (for an app idea) it brought in over 100 people. The second time (for my friends self-published book) it brought in about sixty people. Not anything huge, but for just an hour of work it is a great jumpstart for getting an audience right out of the gate and making your project a success.
 
 Below are *super basic instructions* for how you can easily copy this repo and setup your own launchbox, hosted right here on GitHub.
 
