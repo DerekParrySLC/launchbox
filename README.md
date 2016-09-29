@@ -1,6 +1,6 @@
 # LaunchBox
 ======================
-![alt tag](https://gfycat.com/RectangularGoodnaturedCoyote)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/oim1P"><a href="//imgur.com/oim1P">LaunchBox: Pre-launch Campaign Template</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### This is for maximum customizability and / or learning purposes, not a pod or drop-in solution
 
