@@ -1,7 +1,7 @@
 # LaunchBox: Pre-Launch Campaign Template
 ![alt tag](http://i.imgur.com/K4sId2g.gif)
 
-I'm currently writing the documentation for this repo. Please come back soon.
+*I'm currently writing the documentation for this repo. Please come back soon.*
 
 LaunchBox is modeled after the old LaunchRock (www.launchrock.com), which was awesome. It was a free way to validate your ideas and start building a following. But then they changed it. I waited around for something like it to resurface, but nothing did. So I made LaunchBox.
 
