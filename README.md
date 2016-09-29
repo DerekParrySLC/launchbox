@@ -3,4 +3,12 @@
 
 I'm currently writing the documentation for this repo. Please come back soon.
 
+LaunchBox is modeled after the old LaunchRock (www.launchrock.com), which was awesome. It was a free way to validate your ideas and start building a following. But then they changed it. I waited around for something like it to resurface, but nothing did. So I made LaunchBox.
 
+LaunchBox is a free pre-launch campaign template for validating your ideas and building a following. It goes hand-in-hand with the Lean Startup methodology of refraining from investing in something before you know there is sufficient demand.
+
+Below are *super* basic instructions for how you can easily copy this repo and setup your own LaunchBox, hosted right here on github.
+
+Please note: I opted to not to use certain tools, such as a templating library, so that LaunchBox would reamin beginner friendly. If you have any suggestions on how to improve, I would love to hear them. Please either submit a pull request and send me a message.
+=====================================================================
+##Table of Contents
