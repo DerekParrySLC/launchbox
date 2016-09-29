@@ -60,7 +60,7 @@ Below are **_super basic instructions_** for how you can easily copy this repo a
 
 ## 3. How to further customize your launchbox
 
-If there is enough interest in this repo, I'll add here the following additional instructions
+If there is enough interest in this repo, I'll add here the following additional instructions:
 
 1. How to source and change the background image
 2. How to get and apply a custom domain
