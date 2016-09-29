@@ -6,13 +6,13 @@
 #### What is LaunchBox?
 **LaunchBox** is a free pre-launch campaign template that integrates [formspree.io](https://formspree.io) and a facebook share button. It is modeled after the old LaunchRock (www.launchrock.com), which was awesome. I waited around for something like it to resurface, but nothing ever did. So I made LaunchBox.
 
-LaunchBox goes hand-in-hand with the [Lean Startup](https://en.wikipedia.org/wiki/Lean_startup) methodology of refraining from investing in something before you know there is sufficient demand for it. In a matter of minutes, you can create a new launchbox, share it on reddit and facebook, and start getting people in your inbox who are genuinely interested in your project. The facebook share button also makes it easy for people to share your idea, bringing in more followers.
+LaunchBox goes hand-in-hand with the [Lean Startup](https://en.wikipedia.org/wiki/Lean_startup) methodology of refraining from investing in something before you know there is sufficient demand for it. In a matter of minutes, you can create a new launchbox, share it on reddit and facebook, and start getting email addresses in your inbox of people who are genuinely interested in your project. The facebook share button also makes it easy for people to share your idea, bringing in more followers.
 
-I've used LaunchBox twice (see the [examples below](https://github.com/DerekParrySLC/launchbox/blob/master/README.md#2-how-to-set-up-your-launchbox)) and both times it worked great. The first time (for an app idea) it brought in over one hundred people. The second time (for my friends self-published book) it brought in about sixty people. Not anything huge, but for a limited amount of work it was a great jumpstart for getting an audience right out of the gate and making each project a success.
+I've used LaunchBox twice (see the [examples below](https://github.com/DerekParrySLC/launchbox/blob/master/README.md#1-two-examples-of-launchbox-in-action) and both times it worked great. The first time (for an app idea) it generated over one hundred followers. The second time (for my friend's self-published book) it brought in about sixty people. Not anything huge, but for the quick process of setting it up it was a great jumpstart for getting an audience right out of the gate and making the projects a success.
 
-Below are **_super basic instructions_** for how you can easily copy this repo and setup your own launchbox, hosted right here on GitHub.
+Below are **_super basic instructions_** for how you can easily copy this repo and setup your own launchbox, hosted right here on GitHub. I wrote these intructions for myself, three years ago, when I was first learning how to code. 
 
-*Please note: I opted to not to use certain tools (such as a templating library) so that LaunchBox would remain beginner friendly. If you have any suggestions on how to improve, I would love to hear them. Please either submit a pull request and send me a message.*
+*Please note: I opted not to use certain tools (such as a templating library) so that LaunchBox would remain beginner friendly. If you have any suggestions on how to improve the repo, I would love to hear them. Please either submit a pull request or an issue.*
 
 ##Table of Contents
 1. [Two examples of LaunchBox in action](https://github.com/DerekParrySLC/launchbox/blob/master/README.md#1-two-examples-of-launchbox-in-action)
@@ -22,9 +22,9 @@ Below are **_super basic instructions_** for how you can easily copy this repo a
 5. [FAQ/Contact/Troubleshooting](https://github.com/DerekParrySLC/launchbox#5-faqcontacttroublshooting)
 
 ## 1. Two examples of LaunchBox in action
-**[BirthCurrent](https://www.birthcurrent.com)** - Social news app for the birth community. Generated a following of over one hundred people after posting in several online facebook groups. Currently in development, though possibly will not be completed due to other reasons.
+**[BirthCurrent](https://www.birthcurrent.com)** - Social news app for the birth community. Generated a following of over one hundred people after posting in several online facebook groups. Currently in development, though possibly will not be completed due to time constraints. (Let me know if you're interested in developing a simple social news app.)
 
-**[Magic in Every Corner](http://www.magicineverycorner.com)** - Collection of short stories by my friend Jonathan Griffin. He shared this "launchbox" on his facebook page and got about sixty people to sign up. Not a lot, but all things considered it was a great turnout.
+**[Magic in Every Corner](http://www.magicineverycorner.com)** - Collection of short stories by my friend Jonathan Griffin. He shared this "launchbox" on his facebook page and got about sixty people to sign up. Not a massive amount, but all things considered it was a great turnout.
 
 ## 2. How to set up your launchbox
 
