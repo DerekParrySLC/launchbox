@@ -32,9 +32,23 @@ Below are **_super basic instructions_** for how you can easily copy this repo a
 
 **Step 2. Fork this repo.** Click on the "fork" button at the type right of this page.
 
-**Step 3. Open the `index.html` page.** Navigate to the forked repo in your account. Click on the `index.html` page. Next, click on the pencil icon on the type right to edit the file.
+**Step 3. Open the `index.html` file.** Navigate to the forked repo in your account. Click on the `index.html` page. Next, click on the pencil icon on the type right to edit the file.
 
 **Step 4. Edit `og:title`.** On line 8, change `LaunchBox: Pre-Launch Campaign Template` to the title that you want when people share it on facebook. (We will edit the `og:image` tag later.)
 
-**Step 5. Edit `og:image`.** On line 8, change `LaunchBox: Pre-Launch Campaign Template` to the title that you want when people share it on facebook.
+**Step 5. Edit the title of the website.** On line 12, change `LaunchBox` to the title of your project.
+
+**Step 6. Edit the text of the launchbox.** On lines 32-35, change the text from the LaunchBox text to the tex that you want.
+
+**Step 7. Change the target email address.** On line 36, change `rexburgcandyvend@gmail.com` to your email.
+
+**Step 8. Change email placeholder.** On line 38, change `fake@email.com` to `your@email.com`.
+
+**Step 9. Publish your page.** Click on Settings in the top right. Scroll down to the fourth box titled "GitHub Pages." In the dropdown box, select "master branch" and click save. The page should reload. Scroll back down to the "GitHub Pages" box. Up top in green it should give you the URL for your site. Click on the URL.
+
+**Step 10. Take a screenshot of your launchbox.** Using the snipping tool (Windows) or command-shift-4 (Mac) take a screen shot of the homepage of your launchbox URL. **Save it as `share-image.jpg` somewhere where you can find it.** MAKE SURE YOUR IMAGE IS SAVED AS A JPG, NOT PNG. If it is not a jpg, you will need to convert it. Google how to do this if you are unsure.
+
+**Step 11. Replace `share-image.jpg` with your image.** Navigate back to list of files and open the `share.html` file. Click on the trashcan in the top right to delete it, then commit the delete. Now, naviagte back to the file list. In the top right, click on "Upload files." Upload your `share-image.jpg` file. 
+
+**Step 12. Open the `share.html` file.** Navigate back to the file list. Open `share.html.`
 
