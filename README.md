@@ -22,15 +22,15 @@ Below are *super basic instructions* for how you can easily copy this repo and s
 5. FAQ/Contact/Troubleshooting
 
 ## 1. Two examples of LaunchBox in action
-**[BirthCurrent](www.birthcurrent.com)** - Social news app for the birth community. Generated a following of over 100 people after posting in several online facebook groups. Currently in development; possibly will not be developed due to other reasons.
+**[BirthCurrent](www.birthcurrent.com)** - Social news app for the birth community. Generated a following of over one hundred people after posting in several online facebook groups. Currently in development, though possibly will not be completed due to other reasons.
 
-**[Magic in Every Corner](www.magicineverycorner.com)** - Collection of short stories by my friend Jonathan Griffin. He shared this "launchbox" on his facebook page and got about 60 people to sign up. Quite pleased.
+**[Magic in Every Corner](www.magicineverycorner.com)** - Collection of short stories by my friend Jonathan Griffin. He shared this "launchbox" on his facebook page and got about sixty people to sign up. All things considered, it was a great turnout.
 
 ## 2. How to set up your launchbox
 
-*Step 1.* This.
+**Step 1.** Create a GitHub account if you don't already have one. If you do, log in.
 
-*Step 2.* This.
+**Step 2.** This.
 
-*Step 3.* This.
+**Step 3.** This.
 
