@@ -1,7 +1,7 @@
 # LaunchBox: Pre-Launch Campaign Template
 ![alt tag](http://i.imgur.com/K4sId2g.gif)
 
-*I'm currently writing the documentation for this repo. Please come back soon.*
+*Live demo available at derekparryslc.github.io/launchrock.*
 
 #### What is LaunchBox?
 **LaunchBox** is a free pre-launch campaign template that integrates [formspree.io](https://formspree.io) and a facebook share button. It is modeled after the old LaunchRock (www.launchrock.com), which was awesome. I waited around for something like it to resurface, but nothing ever did. So I made LaunchBox.
@@ -15,11 +15,11 @@ Below are **_super basic instructions_** for how you can easily copy this repo a
 *Please note: I opted to not to use certain tools (such as a templating library) so that LaunchBox would remain beginner friendly. If you have any suggestions on how to improve, I would love to hear them. Please either submit a pull request and send me a message.*
 
 ##Table of Contents
-1. [Two examples of LaunchBox in action](https://github.com/DerekParrySLC/launchbox/blob/master/README.md#2-how-to-set-up-your-launchbox)
-2. How to set up your launchbox
-3. How to further customize your launchbox
-4. How to market your launchbox and build a following
-5. FAQ/Contact/Troubleshooting
+1. [Two examples of LaunchBox in action](https://github.com/DerekParrySLC/launchbox/blob/master/README.md#1-two-examples-of-launchbox-in-action)
+2. [How to set up your launchbox](https://github.com/DerekParrySLC/launchbox#2-how-to-set-up-your-launchbox)
+3. [How to further customize your launchbox](https://github.com/DerekParrySLC/launchbox#3-how-to-further-customize-your-launchbox)
+4. [How to market your launchbox and build a following](https://github.com/DerekParrySLC/launchbox#4-how-to-market-your-launchbox-and-build-a-following)
+5. [FAQ/Contact/Troubleshooting](https://github.com/DerekParrySLC/launchbox#5-faqcontacttroublshooting)
 
 ## 1. Two examples of LaunchBox in action
 **[BirthCurrent](https://www.birthcurrent.com)** - Social news app for the birth community. Generated a following of over one hundred people after posting in several online facebook groups. Currently in development, though possibly will not be completed due to other reasons.
