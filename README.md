@@ -11,11 +11,11 @@ LaunchBox is a free pre-launch campaign template for validating your ideas and b
 Below are *super basic instructions* for how you can easily copy this repo and setup your own LaunchBox, hosted right here on GitHub.
 
 *Please note: I opted to not to use certain tools, such as a templating library, so that LaunchBox would reamin beginner friendly. If you have any suggestions on how to improve, I would love to hear them. Please either submit a pull request and send me a message.*
-=====================================================================
+
 ##Table of Contents
 1. Examples of LaunchBox in action
 2. How to setup your launchbox
 3. How to customize your launchbox
 4. How to market your launchbox and build a following
 5. FAQ/Contact/Troubleshooting
-=============================================================
+
