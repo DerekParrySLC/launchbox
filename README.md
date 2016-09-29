@@ -17,7 +17,7 @@ Below are **_super basic instructions_** for how you can easily copy this repo a
 ##Table of Contents
 1. [Two examples of LaunchBox in action](https://github.com/DerekParrySLC/launchbox/blob/master/README.md#2-how-to-set-up-your-launchbox)
 2. How to set up your launchbox
-3. How to customize your launchbox
+3. How to further customize your launchbox
 4. How to market your launchbox and build a following
 5. FAQ/Contact/Troubleshooting
 
