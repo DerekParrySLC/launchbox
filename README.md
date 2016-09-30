@@ -1,7 +1,7 @@
 # LaunchBox: Pre-Launch Campaign Template
 ![alt tag](http://i.imgur.com/K4sId2g.gif)
 
-*Live demo available at https://derekparryslc.github.io/launchbox*
+*See the demo at https://derekparryslc.github.io/launchbox*
 
 #### What is LaunchBox?
 **LaunchBox** is a free pre-launch campaign template that integrates [formspree.io](https://formspree.io) and a facebook share button. It is modeled after the old LaunchRock (www.launchrock.com), which was awesome. I waited around for something like it to resurface, but nothing ever did. So I made LaunchBox.
