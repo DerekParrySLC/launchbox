@@ -61,7 +61,7 @@ If this repo generates enough interest, I'll add here the following additional i
 3. How to change the color scheme
 4. How to find and integrate custom fonts
 
-**Anything else you would like me to add?** Let me know by submitting an issue and I'll try to include it. Also, if you have any features that you would like to implement yourself, please submit a pull request.
+**Anything else?** Let me know by submitting an issue and I'll try to include it. Also, if you have any features that you would like to implement yourself, please submit a pull request.
 
 ## 4. How to market your launchbox and build a following
 
