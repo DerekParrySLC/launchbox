@@ -46,7 +46,7 @@ LaunchBox goes hand-in-hand with the [Lean Startup](https://en.wikipedia.org/wik
 
 **Step 12. Create your facebook share button.** In a different tab, go to https://developers.facebook.com/docs/plugins/share-button. In the "URL to share" field, paste the URL to your launchbox's home page. It should look like `https://[yourUserName].github.io/launchbox/`. Choose your button layout and size. **MAKE SURE THE "MOBILE IFRAME" CHECKBOX IS _NOT_ CHECKED.** Click "get code." Rather than the JavaScript SDK, we're going to go with the iFrame. So, up above, select "IFRAME." Copy the entire iFrame code onto your clipboard by selecting the code and hitting ctrl-c.
 
-**Step 13. Paste your iframe into `share.html`.** Go back to your launchbox's files and open up `share.html`. On line 30, replace the current iFrame code with your new iFrame by selecting the current iFrame code and pressing ctrl-v.
+**Step 13. Paste your iframe into `share.html` and change the page title.** Go back to your launchbox's files and open up `share.html`. On line 30, replace the current iFrame code with your new iFrame by selecting the current iFrame code and pressing ctrl-v. Also, on line 9 of `share.html`, change `LaunchBox` to the title of your project.
 
 **Step 14. Verify your email address with [formspree.io](https://formspree.io).** Open up the homepage of the URL for your launchbox. (Again, it should be `https://[yourUserName].github.io/launchbox/`.) Once there, type in any email address, fake or real, into the sign-up form. Press enter. This should now take to you a formspree page saying that you need to verify your email address. Go do that.
 
