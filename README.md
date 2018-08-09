@@ -67,10 +67,6 @@ If this repo generates enough interest, I'll add here the following additional i
 
 Same as above: If there is sufficient interest in this repo, I'll add here some tricks and tips on how to share your launchbox and build a following. Please remember to star and fork this repo up above.
 
-## 5. FAQ/Contact/Troublshooting
+## 5. Troublshooting
 
-I'll post frequently asked questions here as they come in.
-
-If you would like to contact me, please submit an issue or a pull request.
-
-Having trouble with you launchbox? Please paste your code into a [gist](https://gist.github.com/) and submit the link to your gist as an issue.
+Having trouble with your launchbox? Please paste your code into a [gist](https://gist.github.com/) and submit the link to your gist as an issue.
